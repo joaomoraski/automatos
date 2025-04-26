@@ -1,4 +1,4 @@
-from automata.fa.dfa import DFA
+from automata.fa.DFA import DFA
 
 automato01 = DFA(
     states={'q0', 'q1', 'q2', 'q3'},
